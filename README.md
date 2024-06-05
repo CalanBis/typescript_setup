@@ -1,4 +1,4 @@
-# Projet initial pour exercices d'algorithmie en typescript
+# Setup pour exercices d'algorithmie en typescript
 
 ## Installation
 
